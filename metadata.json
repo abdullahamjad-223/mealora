@@ -1,0 +1,5 @@
+{
+  "name": "MEALORA",
+  "description": "A luxury, minimal recipe discovery application powered by TheMealDB API, featuring global cuisines and interactive cooking guides.",
+  "requestFramePermissions": []
+}
